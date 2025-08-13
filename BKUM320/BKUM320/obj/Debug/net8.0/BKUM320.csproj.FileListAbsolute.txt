@@ -1,0 +1,15 @@
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\bin\Debug\net8.0\BKUM320.exe
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\bin\Debug\net8.0\BKUM320.deps.json
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\bin\Debug\net8.0\BKUM320.runtimeconfig.json
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\bin\Debug\net8.0\BKUM320.dll
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\bin\Debug\net8.0\BKUM320.pdb
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\obj\Debug\net8.0\BKUM320.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\obj\Debug\net8.0\BKUM320.AssemblyInfoInputs.cache
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\obj\Debug\net8.0\BKUM320.AssemblyInfo.cs
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\obj\Debug\net8.0\BKUM320.csproj.CoreCompileInputs.cache
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\obj\Debug\net8.0\BKUM320.sourcelink.json
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\obj\Debug\net8.0\BKUM320.dll
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\obj\Debug\net8.0\refint\BKUM320.dll
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\obj\Debug\net8.0\BKUM320.pdb
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\obj\Debug\net8.0\BKUM320.genruntimeconfig.cache
+C:\Users\yvesj\source\BKUm320\BKUM320\BKUM320\obj\Debug\net8.0\ref\BKUM320.dll
